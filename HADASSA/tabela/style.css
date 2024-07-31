@@ -1,0 +1,38 @@
+@import url('https://fonts.googleapis.com/css2?family=Poetsen+One&display=swap');
+* {
+    margin: 0;
+    padding: 0;
+}
+table {
+    border-collapse: collapse;
+    width: 80%;
+}
+td {
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center; 
+    background-color:rgb(217, 250, 252);
+}
+th {
+    border: 2px solid black;
+    padding: 20px;
+    text-align: center; 
+    background-color:rgb(99, 248, 243);
+}
+
+.vermelho {
+    color: rgb(255, 7, 7); 
+}
+
+h1 {
+    margin-bottom: 10px;
+    margin-top: 10px;
+    margin-left: 10px;
+    font-family: 'Courier New', Courier, monospace;
+}
+.poetsen-one-regular {
+    font-family: "Poetsen One", sans-serif;
+    font-weight: 400;
+    font-style: normal;
+  }
+  
